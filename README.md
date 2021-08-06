@@ -1,1 +1,1 @@
-# arraymethods
+# javascript knowledge
